@@ -7,6 +7,10 @@ The game is built on a location-based platform, where real-world exploration is 
 
 [OPOS Geomine](https://github.com/MoonshineLabs-io/opos-geomine-web/)
 
+## Game Code: 
+
+Available to judges on request.
+
 ## Game Mechanics:
 
 ### 1. Augmented Reality Exploration:
