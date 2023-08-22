@@ -3,7 +3,7 @@ In **Starlight Artifacts**, players assume the role of futuristic explorers, sca
 
 The game is built on a location-based platform, where real-world exploration is translated into in-game scavenging activities.
 
-##Backend Code:
+## Backend Code:
 
 [OPOS Geomine](https://github.com/MoonshineLabs-io/opos-geomine-web/)
 
